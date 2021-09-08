@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "DailyPractice/7-26",
+        "DailyPractice/7-23",
+        "DailyPractice/7-19",
+        "DailyPractice/7-17",
+        "DailyPractice/7-16",
+        "HashTable"
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "terminal.integrated.fontSize": 16
+}
